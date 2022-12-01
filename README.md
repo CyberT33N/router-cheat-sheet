@@ -28,3 +28,10 @@ Router Cheat Sheet with the most needed stuff..
 auth-user-pass /home/anyUserName/Documents/nordvpn/auth.txt
 ```
   - In my case only with set this option with a placeholder path it will be detected by the router UI and ask me to enter username and password. Maybe it will work aswell without.
+
+
+<br><br><br><br>
+
+### Luci
+- https://docs.gl-inet.com/en/3/setup/mini_router/more_settings/#advanced
+-  The username is root. The password is same as the one that you use to access the web Admin Panel.
