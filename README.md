@@ -9,6 +9,7 @@ Router Cheat Sheet with the most needed stuff..
 
 ### GL.iNet GL-MT300N-V2(Mango) - Portable Mini Travel Wireless Pocket VPN Router
 - https://www.amazon.com/GL-iNET-GL-MT300N-V2-Repeater-300Mbps-Performance/dp/B073TSK26W
+- https://docs.gl-inet.com/en/3/setup/mini_router/more_settings/#custom-dns-server
 
 <br><br>
 
